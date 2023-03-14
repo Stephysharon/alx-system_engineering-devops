@@ -1,2 +1,2 @@
 #!/bin/bash
-touch n 1 <  iacta >> iacta
+touch -n 1 <  iacta >> iacta
